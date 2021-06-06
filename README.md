@@ -1,6 +1,6 @@
 # World-Clock-Android-Application
 
-It is an World Clock Application where user can see the list of all zones and their current timing and user can search and select the countries in whose time he is interested to be displayed in home screen. 
+It is a World Clock Application where user can see the list of all zones and their current timing. User can search and select the countries in whose time he is interested to be displayed in home screen. 
 
 
 # Installation-Instructions
