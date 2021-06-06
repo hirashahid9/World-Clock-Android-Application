@@ -18,14 +18,14 @@ Emulator/Android Phone
 
 # Screens
 
-Home Screen
+## Home Screen ##
 
 ![image](https://user-images.githubusercontent.com/55246052/120904249-b32c8280-c664-11eb-965e-2c7b26c35b7e.png)
 
 
 
 
-All Countries List
+## All Countries List ##
 
 ![all coun](https://user-images.githubusercontent.com/55246052/120904278-dce5a980-c664-11eb-9c25-ab2e19f7eaff.JPG)
 
